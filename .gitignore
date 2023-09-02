@@ -1,0 +1,6 @@
+.env
+SecurityCamVenv/
+__pycache__/
+*.pyc 
+*.pyco
+.vscode/
